@@ -1,0 +1,76 @@
+﻿/* CSS used by hy.wikisource.org/wiki/User:Xelgen/ՀՍՀ_Կտրիչ */
+
+.crop-img-cat  {	
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden; 
+	border:solid grey 1px; 
+	
+	/*font-size:0.9em;*/
+}
+
+.crop-img-cat select { 
+	padding:10px;
+	margin:-5px -20px -5px -5px; 
+}
+
+.crop-img-preview-container {
+	overflow:hidden;
+	border:1px solid #C0C0C0; /*gray;*/
+	padding:10px;
+	margin-bottom:10px;
+	background:#E0EEF7; /*#ECECFF*/
+}
+
+.crop-img-preview-inputs {
+	float:left; 
+	padding-right:10px;
+}
+
+.cropped-img-name {
+	width:200px;
+}
+
+.cropped-img-desc {
+	width:200px;
+}
+
+
+.crop-img-preview-category {
+	float:left; 
+	padding-right:10px
+}
+
+.crop-img-preview-thumb {
+	float:right;
+	border:1px solid black; 	
+}
+
+.dialog-img-preview-full {
+	padding:10px;
+}
+
+
+/*
+.crop-img-cat::-webkit-scrollbar {display:none;}
+.crop-img-cat::-moz-scrollbar {display:none;}
+.crop-img-cat::-o-scrollbar {display:none;}
+.crop-img-cat::-google-ms-scrollbar {display:none;}
+.crop-img-cat::-khtml-scrollbar {display:none;}
+ 
+.pn-indexlist li {
+	font-size:0.85em;
+	color:#3F3F3F;
+}
+ 
+#prevIndexes ul li:last-child  {
+	color:#000000;
+	font-size:0.95em;
+}
+ 
+#nextIndexes ul li:first-child  {
+	color:#000000;
+	font-size:0.95em;
+}
+ 
+*/
